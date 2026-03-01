@@ -5,7 +5,7 @@
 | # | Platform | Priority | Notes |
 |---|----------|----------|-------|
 | 1 | Upwork | PRIMARY | Google-indexed listings accessible publicly. Auth wall blocks full briefs on some posts. Best overall signal. |
-| 2 | Freelancer.com | SECONDARY | Pages render as CSS-only via WebFetch — budget unverifiable without auth account. Use as supplemental. |
+| 2 | Freelancer.com | **PRIMARY** | **UPGRADED 2026-03-01**: Playwright + Google auth gives full descriptions, 54% qualifying hit rate. Budget amounts still hidden (Plus membership required). Scrape: /jobs/web-design/, /jobs/html5/, /jobs/css/, /jobs/landing-pages/ + keyword searches. |
 | 3 | PeoplePerHour | SECONDARY | Many listings retrievable. Budgets often too low (£50–£150). High proposal counts on most open jobs. |
 | 4 | Reddit r/forhire | TERTIARY | Ephemeral posts — not reliably indexed by search engines. Requires direct subreddit monitoring. |
 | 5 | Reddit r/slavelabour | TERTIARY | Micro-tasks, lower budgets. Good for $40–$150 single-page work. Requires direct browsing. |
